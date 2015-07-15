@@ -1,0 +1,41 @@
+<%= form_for(@alumnu) do |f| %>
+  <% if @alumnu.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@alumnu.errors.count, "error") %> prohibited this alumnu from being saved:</h2>
+
+      <ul>
+      <% @alumnu.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :firstname %><br>
+    <%= f.text_field :firstname %>
+  </div>
+  <div class="field">
+    <%= f.label :lastname %><br>
+    <%= f.text_field :lastname %>
+  </div>
+  <div class="field">
+    <%= f.label :gradyear %><br>
+    <%= f.text_field :gradyear %>
+  </div>
+  <div class="field">
+    <%= f.label :email %><br>
+    <%= f.text_field :email %>
+  </div>
+  <div class="field">
+    <%= f.label :address %><br>
+    <%= f.text_field :address %>
+  </div>
+  <div class="field">
+    <%= f.label :major %><br>
+    <%= f.text_field :major %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

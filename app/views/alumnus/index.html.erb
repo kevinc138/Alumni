@@ -1,0 +1,48 @@
+<p id="notice"><%= notice %></p>
+<p>
+  Download:
+  <%= link_to "CSV", alumnus_path(format: "csv") %> |
+  <%= link_to "Excel", alumnus_path(format: "xls") %>
+</p>
+
+
+<%= form_tag import_alumnus_path, multipart: true do %>
+  <%= file_field_tag :file %>
+  <%= submit_tag "Import" %>
+<% end %>
+
+<h1>Listing Alumnus</h1>
+
+<table class="table">
+  <thead>
+    <tr>
+      <th>Firstname</th>
+      <th>Lastname</th>
+      <th>Gradyear</th>
+      <th>Email</th>
+      <th>Address</th>
+      <th>Major</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @alumnus.each do |alumnu| %>
+      <tr>
+        <td><%= alumnu.firstname %></td>
+        <td><%= alumnu.lastname %></td>
+        <td><%= alumnu.gradyear %></td>
+        <td><%= alumnu.email %></td>
+        <td><%= alumnu.address %></td>
+        <td><%= alumnu.major %></td>
+        <td><%= link_to 'Show', alumnu %></td>
+        <td><%= link_to 'Edit', edit_alumnu_path(alumnu) %></td>
+        <td><%= link_to 'Destroy', alumnu, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Alumnu', new_alumnu_path %>

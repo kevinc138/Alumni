@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+  xmlns:o="urn:schemas-microsoft-com:office:office"
+  xmlns:x="urn:schemas-microsoft-com:office:excel"
+  xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+  xmlns:html="http://www.w3.org/TR/REC-html40">
+  <Worksheet ss:Name="Sheet1">
+    <Table>
+      <Row>
+        <Cell><Data ss:Type="String">ID</Data></Cell>
+        <Cell><Data ss:Type="String">firstname</Data></Cell>
+        <Cell><Data ss:Type="String">lastname</Data></Cell>
+        <Cell><Data ss:Type="String">gradyear</Data></Cell>
+        <Cell><Data ss:Type="String">email</Data></Cell>
+        <Cell><Data ss:Type="String">major</Data></Cell>
+        <Cell><Data ss:Type="String">address</Data></Cell>
+      </Row>
+    <% @alumnus.each do |alumnu| %>
+      <Row>
+        <Cell><Data ss:Type="Number"><%= alumnu.id %></Data></Cell>
+        <Cell><Data ss:Type="String"><%= alumnu.firstname %></Data></Cell>
+        <Cell><Data ss:Type="String"><%= alumnu.lastname %></Data></Cell>
+        <Cell><Data ss:Type="Number"><%= alumnu.gradyear %></Data></Cell>
+        <Cell><Data ss:Type="String"><%= alumnu.email %></Data></Cell>
+        <Cell><Data ss:Type="String"><%= alumnu.major %></Data></Cell>
+        <Cell><Data ss:Type="String"><%= alumnu.address %></Data></Cell>
+      </Row>
+    <% end %>
+    </Table>
+  </Worksheet>
+</Workbook>

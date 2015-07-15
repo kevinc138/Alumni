@@ -1,0 +1,448 @@
+firstname,lastname,gradyear,email,major,
+Dr. Michael ,Herrell,1960,hhherrell@aol.com,Pre Med,
+Wallace ,MacDonald,1960,,Women's Studies,
+William,Southwick,1960,jbsouthwick@comcast.net,"Philosophy
+Religion",
+Barrett ,Smith,1961,claribarry@yahoo.com,Economics,
+Donald,Heckerman,1962,,"Economics
+Mathematics",
+Dr. Edwin ,Boldrey,1963,ecjm@aol.com,Pre-Med,
+Russel ,Koos,1963,Rkoos@TechSG.com,Mathematics,
+Dr. Lynn ,Henry,1965,LRHenryOD@yahoo.com,Zoology,
+W. ,Thompson,1965,wjt@wjttech.com,Zoology,
+John,McConnell,1966,jmcconnell@bwf.com,"Economics
+Mathematics",
+Russell ,Walters,1966,,Economics,
+J. ,Greer,1967,,Economics,
+Dr. David,Bohmer,1969,dbohmer@depauw.edu,"History
+Economics",
+Ned,Lee,1969,leefwin@comcast.net,"Mathematics
+Economics",
+Dr. Robert,Reiner,1970,,"Chemisty
+Physics",
+Dr. Joseph,Ting,1970,,"Physics
+Mathematics",
+C. ,Lemon,1971,,History,
+Kenneth ,Ritz,1972,ritzinmontana@centurylink.net,Geology,
+Kent,Ulery,1972,kent@ulery.net,"Mathematics
+Religion",
+Keith,Irvin,1974,,"Political Science
+History",
+Dr. Michael ,Olive,1974,dmolive52@gmail.com,Zoology,
+Edward ,Taylor,1974,rosedander@aol.com,"Psychology
+Sociology",
+Richard,Hynson,1975,RichardHynson@gmail.com,"Performance
+ French",
+Terry ,Miller,1976,,Chemistry,
+Bruce ,Sampson,1976,josampcoke@aol.com,"Economics
+Mathematics",
+Peter,Dayton,1977,pdayton@comcast.net,"Chemistry
+ Zoology",
+Steven,Olson,1977,solson@tnc.org,"Political Science
+Botany",
+Peter ,Zukoski,1978,,"Economics
+Mathematics",
+Douglas,Evans,1982,djevans@comcast.net,"Psychology
+ Economics",
+Dr. David,Lippie,1982,,"Zoology
+Chemistry",
+Thomas,Anderson,1983,,"Chemistry
+Psychology",
+Luis ,Ortiz,1983,papilou@comcast.net,Zoology,
+Jeffrey ,Sanders,1983,,"Psychology
+Economics",
+Tim ,Bottoms,1984,timbottoms@excite.com,Political Science,
+Joseph,Heerens,1984,jrh3home@att.net,"History
+Politcal Science",
+William,Smits,1984,wlsmits@aol.com,"Chemistry
+Pre Med",
+Alexander ,Alexandrou,1985,alexandrou@comcast.net,Political Science,
+Brent,Ehrman,1985,brent.ehrman@crowehorwath.com,"Sociology
+ Computer Science",
+Brad,Grabow,1985,brad.grabow@gmail.com,"Economics
+French",
+Jack,Cameron,1985,jack.1.cameron@rcn.com,"Economics
+Music",
+Timothy,Huston,1986,TJHuston@msn.com,"Mathematics
+ Economics",
+Bryant,Orem,1986,biggesto@hotmail.com,"History
+Religion",
+Dr. Adam ,Calabrese,1988,adammcalabrese@gmail.com,Physics,
+Bing,Crosby,1988,wkc1965@earthlink.net,"Political Science
+ History",
+Angelo ,Loumbas,1988,angelo@loumbas.com,Economics,
+Matthew,Miller,1988,mpmiller@sio.midco.net,"Communication
+English",
+Philip,Danen,1989,phild@deperelaw.com,"Economics
+ History",
+Dr. R. ,Mara,1989,,Biological Sciences,
+Bryce ,Stewart,1989,bstewart@pbday.org,Elementary Education,
+Dale,Combs,1990,,"Economics
+ English",
+Jon,Lundy,1990,lundymail@comcast.net,"Chemistry
+Mathematics",
+Troy,Smith,1990,troy.smith@siemens.com,"Philosophy
+Economics",
+Spencer ,Lungaard,1991,,Communication,
+Roger ,Neff,1991,rogerneff@gmail.com,Economics,
+Douglas,Riley,1991,driley@bsc.edu,"Mathematics
+Computer Science",
+Samuel,Rosado-Domenech,1991,samuel.rosado@oneillborges.com,"Economics
+Spanish",
+Robert,Sit,1991,rws@sitinvest.com,"Economics
+History",
+Thomas ,Beaulieu,1992,beaulieuclan1@verizon.net,"Economics
+German",
+Peter ,Morse,1992,,"History
+Political Science",
+Gregory,Portell,1992,greg.portell@atkearney.com,"Economics
+French",
+R. ,Bennett,1993,rdouglasbennett@gmail.com,"Economics
+Geography",
+Joshua ,Borders,1993,jtborders@midtowngroup.com,Communication,
+Tay,Bourquein,1993,tay.b@premier-group.com,"Music
+Communication",
+Douglas,Cook,1994,,"Physics
+ Mathematics",
+W. ,Hatton,1995,whatton1@gmail.com,"Economics
+English",
+Kenneth ,Teuschler,1995,,Political Science,
+Dr. Gawain ,Gilkey,1996,,Biological Sciences,
+Jeremy ,Johnson,1996,,Philosophy,
+J. ,Stringfellow,1996,jbstringfellow@hotmail.com,Biological Sciences,
+Tevlin,Schuetz,1997,teschuetz@comcast.net,"Art
+Biological Sciences",
+Joshua ,Miler,1997,,Communication,
+Timothy ,Bognar,1998,,"Economics
+Communication",
+H. ,Souders,1998,rsouders@sbcglobal.com,Communication,
+Andrew,Cornelius,1999,andrew.cornelius@gmail.com,"Communication
+ Economics",
+Dakota ,Shultz,1999,dakota_shultz@hotmail.com,English,
+Perry ,Trowbridge,1999,perry.trowbridge@mac.com,History,
+David ,Johnson,2000,johnson_david_k@hotmail.com,"Computer Science
+Economics",
+James,LaRue,2000,jimlarue@gmail.com,"Economics
+Computer Science",
+Kyle,Moore,2000,moorek@gmail.com,"Computer Science
+East Asian Studies",
+Nathan,Husmann,2001,nrhusmann@gmail.com,"Computer Science
+ Economics",
+Tim ,Zeiger,2001,tzeiger@varde.com,"Mathematics
+Economics",
+Denton,Jacobs,2002,denton@dentonjacobs.com,"Computer Science
+Religious Studies",
+Joshua ,Lamb,2002,Kazakhjosh@yahoo.com,English,
+F. ,Rhea,2002,,Chemistry,
+Alexander ,Yates,2002,alexhyates@hotmail.com,Communication,
+Daniel ,Bailey,2003,danielericbailey@yahoo.com,"French
+English",
+Andrew ,McGovern,2003,andymcgovern@gmail.com,"Computer Science
+Spanish",
+Nathan,Moch,2003,nathanmoch@hotmail.com,"Computer Science
+Spanish",
+Herman,Slodowicz,2003,hermanoutwest@yahoo.com,"English
+Communication",
+Ryan ,Truitt,2003,rstruitt@hotmail.com,"Computer Science
+Classical Civilization",
+Brian,Bales,2004,bdbales@gmail.com,"Spanish
+Biochemistry",
+Dr. Matthew,Jones,2004,matthewmyron@gmail.com,"French
+Biology",
+Duncan,Yoon,2004,duncan.yoon@gmail.com,"English
+French",
+Stoyan,Panov,2005,smpanov@gmail.com,"Economics
+Political Science",
+Jeremy ,Powlen,2005,jpowlen@gmail.com,Biology,
+Blake ,Royer,2005,bcroyer@gmail.com,"English
+Art",
+Pravir,Singh,2005,pravir.singh@gmail.com,"Economics
+Political Science",
+Zachary,Adams,2006,zacharywadams@gmail.com,"Psychology
+Biology",
+Charles,Carpenter,2006,charleswcarpenter@gmail.com,"English
+ Political Science",
+Andrew ,Hanson,2006,andrewshanson@gmail.com,"Art
+Communication",
+Kenneth ,McConnaughey,2006,,Kinesiology,
+Dan,Price,2006,inmemdthomas@hotmail.com,"Mathematics
+Computer Science",
+Michael,Benedik,2007,Msbenedik@gmail.com,"Economics
+English",
+Dr. Alex ,Boucher,2007,alexaboucher@gmail.com,Biology,
+James,Holmes,2007,,"Economics
+ German",
+Kraig,Kirchner,2007,kraig.kirchner@gmail.com,"Mathematics
+Economics",
+Robert ,Lavieri,2007,rrlavieri@gmail.com,"Biochemistry
+Philosophy",
+Jacob ,Blasdel,2007,jacob.blasdel@gmail.com,"Economics
+Computer Science",
+Patrick,Sabo,2007,patrick.sabo@gmail.com,"English
+Philosophy",
+Dustin,Christensen,2008,dustin.w.christensen@gmail.com,"Political Science
+ Communication",
+Christopher ,Jackson,2008,chrisjackson@financialguide.com,"Economics
+Political Science",
+Michael,Tennery,2008,mtennery@gmail.com,"Economics
+Political Science",
+Michael ,Beeman,2009,beeman.michael@gmail.com,"Political Science
+French",
+Chester ,Broshears,2009,neil.broshears@gmail.com,Biology,
+Jyotishman,Nag,2009,jyotishman22@yahoo.com,"Computer Science
+Physics",
+John,Stallings,2009,johnstallings2009@gmail.com,"Communication
+German",
+Stephen,Zacny,2009,,"Mathematics
+French",
+Alexander ,Billingsley,2011,alexanderbillingsley@gmail.com,Computer Science,
+Charles,Dull,2011,,"English
+ Computer Science",
+Brian,Groendyke,2012,brian.groendyke@gmail.com,"Chemistry
+Spanish",
+Ronald ,Haduch,2012,ronhaduch@sbcglobal.net,"Economics
+Communication",
+Dylan,Klossner,2012,dtklossner@gmail.com,"Psychology
+Philosophy",
+Matthew,Knochel,2012,mattknochel@gmail.com,"Psychology
+Music",
+Minh,Ly,2012,LYMINH192@gmail.com,"Economics
+Mathematics",
+Nasheed ,Moiz,2012,nasheedmoiz@gmail.com,Computer Science,
+Case,Nafziger,2012,case.nafziger@gmail.com,"Performance
+English",
+Samuel,Spahn,2012,samuelspahn2012@gmail.com,"Political Science
+History",
+Brian,Banta,2013,,"English
+Political Science",
+Sam ,Borcherding,2013,samborch@iupui.edu,,
+William,Freske,2013,wfreske@gmail.com,"Communication
+ English",
+Daniel ,Piedmonte,2013,dmonte1017@aol.com,"Biochemistry
+Philosophy",
+Jacob ,Sokalski,2013,jacobsokalski1128@gmail.com,Biology,
+Reilly,Taylor,2013,reillytaylor2013@gmail.com,Environmental Geoscience,
+Le,Thanh,2013,ziem445@gmail.com,Economics,
+John,Wilson,2013,johnwilson84791@gmail.com,"Communication
+Film Studies",
+Quinn,Carrico,2013,quinn.carrico@gmail.com,"Physics
+ Computer Science",
+Troy,Hollings,2013,troysgnilloh@yahoo.com,Economics,
+Matthew,Keinsley,2013,mkeinsley@gmail.com,"Biochemistry
+Mathematics",
+Ricky,Martinez,2014,rickymartinez1776@gmail.com,Mathematics,
+Andrew,Pace,2014,andrewpace1224@gmail.com,Mathematics,
+Patrick,Nielsen,2014,patricknielsen1992@gmail.com,Mathematics,
+J.R.,Strubbe,2014,johnrobertstrubbe@gmail.com,Mathematics,
+Rick,Allen,2014,gabriel.allen54@gmail.com,Mathematics,
+Alex,Parker,2014,alexanderparker1991@gmail.com,Mathematics,
+Vincent,Guzzetta,2014,vguzze14@gmail.com,Mathematics,
+Ben,Cox,2014,benny24c@gmail.com,Mathematics,
+Josh,Champion,2014,josh.champion44@gmail.com,Mathematics,
+Ben,Diekhoff,2014,bdiekhoff@live.com,Mathematics,
+Walker,Chance,2014,walkerchance@gmail.com,Mathematics,
+Dylan,Spangler,2014,dylanspangler92@gmail.com,Mathematics,
+Tom,Piotrowski,2014,thomas.r.piotrowski@gmail.com,Mathematics,
+Tarun,Verghis,2014,tarun.verghis@gmail.com,Mathematics,
+Aaron,Dickey,2014,aaron.dickey.is@gmail.com,Mathematics,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
